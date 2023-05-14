@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b148c2f6-1c0e-4497-9b7e-98315735ca95" name="db_show" url="http://localhost/git/wsb/wsb_nIinz_3_5s_22-23_Inf_Sp3_J-zyki-programowania-PHP_3/2_db/1_db_table.php">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
